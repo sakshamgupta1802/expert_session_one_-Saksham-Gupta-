@@ -16,7 +16,8 @@ Re Structioring of data.
 
 # To run the code:
 
-Cloce the github repository in your computer. git clone 
+Cloce the github repository in your computer. git clone https://github.com/sakshamgupta1802/expert_session_one_-Saksham-Gupta-.git
+
 Run dataPreperation.ipynb file which will create two json files in dataStore folder.
 
 Run DataBaseSearch.ipynb file to search for movie titles across the newly created data store.
