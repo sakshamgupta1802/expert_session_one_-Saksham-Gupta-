@@ -9,11 +9,16 @@ imagination.
 It covers the following points:
 
 Merging data from multiple data sources.
+
 Performing memory efficient searching with Global Secondary Index.
+
 Re Structioring of data.
 
-To run the code:
-Cloce the github repository in your computer. git clone https://github.com/Electric-Grasshopper/Data-analysis-on-incoming-streams.git
+# To run the code:
+
+Cloce the github repository in your computer. git clone 
 Run dataPreperation.ipynb file which will create two json files in dataStore folder.
+
 Run DataBaseSearch.ipynb file to search for movie titles across the newly created data store.
+
 That's it.
