@@ -23,3 +23,15 @@ Run Data Preparations.ipynb file which will create two json files in dataStore f
 Run DataBaseSearch.ipynb file to search for movie titles across the newly created data store.
 
 That's it.
+
+# OR
+
+visit New Folder(4).zip
+
+Download zip file.
+
+Run Data Preparations.ipynb file which will create two json files in dataStore folder.
+
+Run DataBaseSearch.ipynb file to search for movie titles across the newly created data store.
+
+That's it.
